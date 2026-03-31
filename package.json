@@ -1,0 +1,7 @@
+{
+  "name": "college-event-registration",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
